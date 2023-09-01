@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Augustine Ezeamaku
 - 🌱 I’m currently learning Data Analytics and the tools needed for a good and excellent analysis
 - 💞️ I’m looking to collaborate with other Analyst community leaders to improve the Data World 
-- 📫 2023 goals: improve my technical skills and start job hunting
+- 📫 2023 goals: improve my technical skills and begin job hunting
 - fun fact: i love football,watching movies and reading self development books
 
 <!---

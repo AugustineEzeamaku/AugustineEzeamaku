@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustine Ezeamaku
+- 👋 Hi, I’m Augustine Ezeamaku, and my passion lies in the world of data analysis. I'm immersed in the journey of mastering advanced data analysis techniques,continuously expanding my skill set.
 - 🌱 I’m currently learning Data Analytics and the tools needed for a good and excellent analysis
 - 💞️ I’m looking to collaborate with other Analyst community leaders to improve the Data World 
 - 📫 2023 goals: improve my technical skills and begin job hunting
